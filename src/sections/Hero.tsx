@@ -3,7 +3,7 @@ function Hero() {
     <section id="hero" className="py-28 bg-gradient-to-b from-gray-50 to-white">
       <div className="max-w-6xl mx-auto px-6 text-justify hyphens-auto">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            <span className="text-blue-600">Full-Stack Engineer</span> <br />
+            <span className="text-blue-600">Full-Stack Developer</span> <br />
             Building Scalable & Data-Driven Systems
         </h1>
 
